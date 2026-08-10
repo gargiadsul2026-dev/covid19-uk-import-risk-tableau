@@ -1,6 +1,6 @@
 # covid19-uk-import-risk-tableau
 Interactive Tableau dashboard analysing COVID-19 global import risk to the UK — CS5703 Data Visualisation, Brunel University London
-https://drive.google.com/file/d/1nqrvQa44VZ-PKwAJJD4OkUnjT3GuXIQC/view?usp=sharing
+https://drive.google.com/drive/folders/1QxBGa54rVUpwoGIxxkZdoCqb_d0Evvey?usp=sharing
 # COVID-19 UK Import Risk Dashboard
 
 **CS5703 Data Visualisation | Brunel University London | 2026**
